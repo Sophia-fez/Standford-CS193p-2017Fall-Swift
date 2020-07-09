@@ -1,9 +1,8 @@
-# cs193p-2017-fall
-
-以前也曾經挑戰過這個非常知名的課程, 不過英文太弱, 並且沒有程式基礎所以失敗了, 今年再戰一次, 並且在這邊紀錄此次學習的過程
+# Standford-CS193p-2017-Fall-Swift
+这是斯坦福2017秋季关于IOS的Swift课程，包括幻灯片、阅读材料、作业、demo等材料，老师是Paul Hegarty  
+国内搬运带机翻字幕的：https://www.bilibili.com/video/BV1rb411C7eN  
 
 ## Lectures And Slides
-
 
 |  Lectures |  Name  |Slides | Demo  | Date |   
 | :--------:| :-----:|:-----: | :---: | :--: |
