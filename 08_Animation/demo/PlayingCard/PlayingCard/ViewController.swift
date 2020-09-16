@@ -25,7 +25,7 @@ class ViewController: UIViewController {
             cards += [card, card]
         }
         for cardView in cardViews {
-            cardView.isFaceUp = false
+            cardView.isFaceUp = true
             let card = cards.remove(at: cards.count.arc4random)
             cardView.rank = card.rank.order
             cardView.suit = card.suit.rawValue
